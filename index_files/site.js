@@ -26,9 +26,9 @@ const Localization = {
             cone: 'Tri-Cir',
             steps_to_solve: 'Pasos para resolver',
             dissect: 'Diseccionar',
-            from: 'en',
+            from: 'en lado',
             agarrar: 'Agarrar',
-            ponerlo: 'y ponerlo'
+            ponerlo: 'y ponerlo en lado'
         },
 
         'es': {
@@ -55,9 +55,9 @@ const Localization = {
             cone: 'Tri-Cir',
             steps_to_solve: 'Pasos para resolver',
             dissect: 'Diseccionar',
-            from: 'en',
+            from: 'en lado',
             agarrar: 'Agarrar',
-            ponerlo: 'y ponerlo'
+            ponerlo: 'y ponerlo en lado'
       }
     },
 
