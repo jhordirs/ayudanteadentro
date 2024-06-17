@@ -33,12 +33,12 @@ button.btn-light > .symbol {
     filter: invert(100%);
 }
 
-.circle { background-image: url(index_files/circle.svg); }
-.square { background-image: url(index_files/square.svg); }
-.triangle { background-image: url(index_files/triangle.svg); }
-.sphere { background-image: url(index_files/sphere.svg); }
-.cube { background-image: url(index_files/cube.svg); }
-.pyramid { background-image: url(index_files/pyramid.svg); }
-.cylinder { background-image: url(index_files/cylinder.svg); }
-.prism { background-image: url(index_files/prism.png); }
-.cone { background-image: url(index_files/cone.svg); }
+.circle { background-image: url(simbolos/circle.svg); }
+.square { background-image: url(simbolos/square.svg); }
+.triangle { background-image: url(simbolos/triangle.svg); }
+.sphere { background-image: url(simbolos/sphere.svg); }
+.cube { background-image: url(simbolos/cube.svg); }
+.pyramid { background-image: url(simbolos/pyramid.svg); }
+.cylinder { background-image: url(simbolos/cylinder.svg); }
+.prism { background-image: url(simbolos/prism.png); }
+.cone { background-image: url(simbolos/cone.svg); }
